@@ -13,6 +13,9 @@
     3. 찜한 충전기 비면 알림 주기<br></p>
  
 ## 🚚 TECH STACK
+<p><b>BackEnd</b></p>
+<img src="https://user-images.githubusercontent.com/26401281/118201481-808ed000-b492-11eb-8dab-d5c9ef0bbcf7.png" width=400>
+<p><b>FrontEnd</b></p>
 ## 🚑 SEQUENCE
 ## 🏍 HOW TO USE
 ## 🚔 URL
