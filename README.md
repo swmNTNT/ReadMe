@@ -34,6 +34,7 @@
 ## 🚔 URL
 <a href="https://frontend-qkasj.run.goorm.io">피카피카</a>
 <p>❌아이폰 접근 금지❌</p>
+<h6>아이폰 브라우저에서 네이버 지도가 안뜨는 현상이 있어요 ㅠ.ㅠ</h6>
 <br>
 
 ##  🛴 TEAM
