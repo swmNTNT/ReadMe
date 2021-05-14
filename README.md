@@ -16,8 +16,12 @@
 <p><b>BackEnd</b></p>
 <img src="https://user-images.githubusercontent.com/26401281/118201481-808ed000-b492-11eb-8dab-d5c9ef0bbcf7.png" width=400>
 <p><b>FrontEnd</b></p>
+<img src="https://user-images.githubusercontent.com/26401281/118201695-01e66280-b493-11eb-94a0-c85753b34eb0.png" width=400>
+
 ## 🚑 SEQUENCE
+
 ## 🏍 HOW TO USE
+
 ## 🚔 URL
 <p>아이폰 접근 금지</p>
 
