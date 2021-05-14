@@ -7,6 +7,7 @@
     비어있다고 해서 달려갔더니 누가 쓰고 있다면⁉️<br></p>
 <p>그런 분들을 위해 전기차 충전소 예약 및 알림 서비스를 준비했습니다🥰</p>
 <a href="https://data.go.kr/data/15076352/openapi.do">한국환경공단 전기자동차 충전소 정보<br></p>
+<br>
 
 ## 🚎 FUNCTION
 <p>1. 지도에 전기차 충전소 표시<br>
@@ -14,18 +15,26 @@
     3. 사용자가 원하는 충전소의 충전기 찜(예약)하기<br>
     4. 충전기 찜하면 사용자에게 메일로 알림 주기<br>
     5. 찜한 충전기 사용 가능해지면 사용자에게 메일로 알림 주기<br></p>
+ <br>
  
 ## 🚚 TECH STACK
 <p><b>BackEnd</b></p>
 <img src="https://user-images.githubusercontent.com/26401281/118202971-03fdf080-b496-11eb-915e-3a17c836e31d.png" width=400>
 <p><b>FrontEnd</b></p>
 <img src="https://user-images.githubusercontent.com/26401281/118202990-11b37600-b496-11eb-80ff-295a3859718b.png" width=400>
+<br><br>
 
 ## 🚑 HOW TO USE
+<div>
+    <img src="https://user-images.githubusercontent.com/26401281/118204291-debeb180-b498-11eb-9d7a-8c37a3b06686.png" width=400>
+    <img src="https://user-images.githubusercontent.com/26401281/118204295-e2523880-b498-11eb-864f-c48b9ecb6dd2.png" width=400>
+    <img src="https://user-images.githubusercontent.com/26401281/118204300-e5e5bf80-b498-11eb-98eb-09a9aee4cd24.png" width=400>
+    <img src="https://user-images.githubusercontent.com/26401281/118204297-e4b49280-b498-11eb-80e2-7aa2690b8f53.png" width=400>
 
 ## 🚔 URL
 <a href="https://frontend-qkasj.run.goorm.io">피카피카</a>
 <p>❌아이폰 접근 금지❌</p>
+<br>
 
 ##  🛴 TEAM
 <p>
