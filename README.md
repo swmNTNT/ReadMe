@@ -6,6 +6,7 @@
     쓰고 있는 충전기는 언제 빌 지 모르겠고<br>
     비어있다고 해서 달려갔더니 누가 쓰고 있다면?<br></p>
 <p>그런 분들을 위해 전기차 충전소 예약 및 알림 서비스를 준비했습니다🥰</p>
+<p>[한국환경공단_전기자동차 충전소 정보](https://data.go.kr/data/15076352/openapi.do)<br></p>
 
 ## 🚎 FUNCTION
 <p>1. 지도에 전기차 충전소 표시<br>
@@ -16,22 +17,16 @@
  
 ## 🚚 TECH STACK
 <p><b>BackEnd</b></p>
-<img src="https://user-images.githubusercontent.com/26401281/118202971-03fdf080-b496-11eb-915e-3a17c836e31d.png" width=400>
+<img src="https://user-images.githubusercontent.com/26401281/118201481-808ed000-b492-11eb-8dab-d5c9ef0bbcf7.png" width=400>
 <p><b>FrontEnd</b></p>
-<img src="https://user-images.githubusercontent.com/26401281/118202990-11b37600-b496-11eb-80ff-295a3859718b.png" width=400>
+<img src="https://user-images.githubusercontent.com/26401281/118201695-01e66280-b493-11eb-94a0-c85753b34eb0.png" width=400>
 
-## 🚑 HOW TO USE
+## 🚑 SEQUENCE
+
+## 🏍 HOW TO USE
 
 ## 🚔 URL
 <p>아이폰 접근 금지</p>
 
 ##  🛴 TEAM
-<p>
-    - 한창완 (FrontEnd, Designer, PM)<br>
-    - 박태형 (BackEnd, PM)<br>
-    - 김도영 (FrontEnd)<br>
-    - 이소민 (FrontEnd)<br>
-    - 홍희림 (BackEnd)<br>
-    - 김상준 (BackEnd)<br>
-</p>
 
