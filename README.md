@@ -24,7 +24,7 @@
 ## 🚑 HOW TO USE
 
 ## 🚔 URL
-<p>https://frontend-qkasj.run.goorm.io</p>
+<a href="https://frontend-qkasj.run.goorm.io">피카피카</a>
 <p>❌아이폰 접근 금지❌</p>
 
 ##  🛴 TEAM
